@@ -1,1 +1,9 @@
 receita de bolo
+
+ingredientes:
+* farinha
+* ovo
+* fermento
+* açúcar
+* leite
+* chocolate em po
