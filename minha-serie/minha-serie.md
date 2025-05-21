@@ -24,7 +24,7 @@ O anime acompanha Tanjiro Kamado, a irmã dele é transformada em um demonio e o
 
 ---
 
-## caracteristicas
+## caracteristicas (marcado = ponto bom, desmarcado = ponto ruim)
 - [x] animação
 - [ ] enredo simples e previsivel
 - [ ] personagens secundarios
