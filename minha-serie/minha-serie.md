@@ -4,28 +4,30 @@
 ---
 
 ## do que se trata
-kimetsu no yaiba é um mangá que ja foi adaptado para anime e possui atualmente 5 temporadas
+Kimetsu no yaiba é um mangá que ja foi adaptado para anime e possui atualmente 5 temporadas
 
-esse anime é sobre o mundo real por volta de 1912, periodo taisho e se passa no japão só que demonios existem, eles sao imortais exeto pela luz do sol e apesar disso existem os exterminadores de demonios
+Esse anime se passa no mundo real por volta de 1912, periodo taisho do Japão só que demonios existem, eles precisam comer carne humana para sobreviverem e sao imortais exeto pela luz do sol e apesar disso existem humanos que resistem, eles sao os exterminadores de demonios
+
+O anime acompanha Tanjiro Kamado, a irmã dele é transformada em um demonio e o objetivo dele fica fazer a irmã dele virar humana novamente.
 
 ---
 
 ## porque você deve assistir?
-  esse anime ja ganhou diversos premios como melhor animação do ano
+  esse anime ja ganhou diversos premios como melhor animação do ano.
 
 ---
 
 ## personagens principais
-- tanjiro
-- zennitsu
-- inosuke
+- tanjiro - personagem principal
+- zennitsu - covarde mas é forte
+- inosuke - burro mas é forte
 
 ---
 
 ## caracteristicas
 - [x] animação
-- [x] enrredo
-- [x] personagens
+- [ ] enredo simples e previsivel
+- [ ] personagens secundarios
 
 ---
 
@@ -39,6 +41,6 @@ esse anime é sobre o mundo real por volta de 1912, periodo taisho e se passa no
 |15-16     |4         |
 
 ---
-
+assista a serie na cruchyroll
 [visite a cruchyroll](https://www.crunchyroll.com/pt-br)
 
